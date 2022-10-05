@@ -1,0 +1,18 @@
+@font-face {
+    font-family: mono;
+    src: url(ShareTechMono-Regular.ttf);
+}
+
+body{
+    background-color: rgb(15,15,15);
+}
+
+#body{
+    margin: auto;
+    max-width: 60%;
+}
+
+h1{
+    color: rgb(255, 128, 0);
+    font-family: mono;
+}
